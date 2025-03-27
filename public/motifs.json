@@ -1,0 +1,21 @@
+[
+    { "key": "motif_non_encore_connu", "label": "Motif non encore connu", "color": "#6b7280" },
+    { "key": "convocation_administrativ", "label": "CONVOCATION ADMINISTRATIV", "color": "#3b82f6" },
+    { "key": "divers", "label": "DIVERS", "color": "#10b981" },
+    { "key": "exclusion_temporaire", "label": "EXCLUSION TEMPORAIRE", "color": "#ef4444" },
+    { "key": "infirmerie", "label": "INFIRMERIE", "color": "#facc15" },
+    { "key": "maladie_avec_certificat", "label": "MALADIE AVEC CERTIFICAT", "color": "#8b5cf6" },
+    { "key": "maladie_sans_certificat", "label": "MALADIE SANS CERTIFICAT", "color": "#ec4899" },
+    { "key": "probleme_de_transport", "label": "PROBLEME DE TRANSPORT", "color": "#6366f1" },
+    { "key": "raison_familiale", "label": "RAISON FAMILIALE", "color": "#14b8a6" },
+    { "key": "rdv_assistante_sociale", "label": "RDV ASSISTANTE SOCIALE", "color": "#06b6d4" },
+    { "key": "rdv_medical_exterieur", "label": "RDV MEDICAL EXTERIEUR", "color": "#84cc16" },
+    { "key": "rdv_psychologue_e.n.", "label": "RDV Psychologue E.N.", "color": "#f59e0b" },
+    { "key": "reunion_(autre)", "label": "REUNION (AUTRE)", "color": "#ea580c" },
+    { "key": "reunion_delegues", "label": "REUNION DELEGUES", "color": "#059669" },
+    { "key": "reunion_fse", "label": "REUNION FSE", "color": "#0ea5e9" },
+    { "key": "sans_excuses", "label": "SANS EXCUSES", "color": "#e11d48" },
+    { "key": "sortie_scolaire_ou_pedagogique", "label": "SORTIE SCOLAIRE OU PEDAGOGIQUE", "color": "#9333ea" },
+    { "key": "stage_en_entreprise", "label": "STAGE EN ENTREPRISE", "color": "#d946ef" },
+    { "key": "visite_medicale", "label": "VISITE MEDICALE", "color": "#b91c1c" }
+]

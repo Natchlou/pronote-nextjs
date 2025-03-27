@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathématiques",
+    "teacher": "JULLIEN N.",
+    "start_at": "8:00",
+    "end_at": "10:00",
+    "day": "monday"
+  },
+  {
+    "id": 2,
+    "subject": "Anglais",
+    "teacher": "JULLIEN N.",
+    "start_at": "14:00",
+    "end_at": "16:00",
+    "day": "monday"
+  },
+  {
+    "id": 3,
+    "subject": "Mathématiques",
+    "teacher": "JULLIEN N.",
+    "start_at": "8:00",
+    "end_at": "10:00",
+    "day": "tuesday"
+  }
+]

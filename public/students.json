@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fullname": "DUPONT Léa",
+        "firstname": "Léa",
+        "lastname": "DUPONT",
+        "birthday": "2007-07-15",
+        "level": "CM1",
+        "data": {
+            "parent": {
+                "father": "Marc DUPONT",
+                "mother": "Elodie DUPONT",
+                "phone": "06 98 45 23 10"
+            },
+            "medical_info": {
+                "allergies": [
+                    "gluten",
+                    "lactose"
+                ],
+                "asthma": true,
+                "medication": "Ventoline"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "fullname": "MARTIN Lucas",
+        "firstname": "Lucas",
+        "lastname": "MARTIN",
+        "birthday": "2005-09-22",
+        "level": "6ème",
+        "data": {
+            "parent": {
+                "father": "Paul MARTIN",
+                "mother": "Nadia MARTIN",
+                "phone": "06 32 12 45 90"
+            },
+            "medical_info": {
+                "allergies": [],
+                "asthma": false
+            }
+        }
+    }
+]
